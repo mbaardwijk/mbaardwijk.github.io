@@ -2,21 +2,17 @@
 
 ### About Me
 
-I am a Ph.D. student in Bioinformatics at the Erasmus Medical Center in Rotterdam (The Netherlands), as well as Omnigen BV in Delft (The Netherlands). I am part 
+I am a Ph.D. student in Bioinformatics at the Erasmus Medical Center in Rotterdam (The Netherlands), as well as Omnigen BV in Delft (The Netherlands). I am part of the Bioinformatics department within the Erasmus Medical Center.
 
 ### Education
 
-- BSc Computer Science from Leiden University
-- MSc Computer Science (bioinformatics track) from Leiden University & TU Delft
+- BSc Life Science and Technology (Major in Biomedical Sciences & Cognitive and Behavioural Neurosciences) from University of Groningen
+- MSc Bioinformatics and Systems Biology (Bioinformatics track) from Vrije Universiteit Amsterdam & University of Amsterdam
 
 ### Contact
 
 |           |                                             |
 |-----------|---------------------------------------------|
-|Email      | saskia.hiltemann@gmail.com                  |
-|GPG        | 87D2 B4E8 7ECF 49EB F4A6  BB28 EE95 D46F 0BFB 5253 |
-|ORCID ID   | [0000-0003-3803-468X](https://orcid.org/0000-0003-3803-468X)       |
-|LinkedIn   | [profile](https://www.linkedin.com/in/shiltemann)     |
-|XMPP       | zazkia@gmail.com                            |
-|Twitter    | @shiltemann                                 |
-|IRC        | @shiltemann on freenode (@ysje for CTFs)    |
+|Email      | m.vanbaardwijk@omnigen.nl                  |
+|ORCID ID   |        |
+|LinkedIn   | [profile](https://www.linkedin.com/in/myrthe-van-baardwijk-21983b162/)     |
