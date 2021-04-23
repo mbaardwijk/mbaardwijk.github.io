@@ -1,6 +1,6 @@
 ## Welcome to Myrthe van Baardwijk her github page!
 
-<img src="Foto_myrthe_cv_2021%20(1).jpg" width="20%">
+<img src="Foto_myrthe_cv_2021%20(1).jpg" width="40%">
 
 ### About Me
 
